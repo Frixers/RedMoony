@@ -1,0 +1,38 @@
+/**
+ * @name Red Moon
+ * @author Tropical#8908, Hammock#3110
+ * @version 3.0.0
+ * @description A cold, dark & frosty theme.
+ * @source https://github.com/DiscordStyles/DarkMatter/
+ * @BDEditor Dark Matter
+*/
+
+@import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/WgLtd0t.jpg');
+  --home-image: url('https://wallpaperwaifu.com/wp-content/uploads/2022/01/astronaut-night-red-moon-thumb.jpg');
+  --accent: 71,5,0;
+  --accent-alt: 71,5,0;
+  --background-solid: #000000;
+  --background-solid-dark: #000000;
+  --background-solid-darker: #470500;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 3px;
+  --rs-large-spacing: 0px;
+  --rs-small-width: 1.5px;
+  --rs-medium-width: 3px;
+  --rs-large-width: 0px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
